@@ -2,7 +2,7 @@
 
 ## Detect a duckiebot or duck in the driving lane and go around it - Option (b)
 
-### Irakli Khotchava, Lasha Kvatashidze, Dachi Skhiladze, Mishka Tenieshvili
+### Irakli Khotchava, Lasha Kvatashidze, Dachi Skhiladze, Mikheil Tenieshvili
 
 
 ### Backlog
